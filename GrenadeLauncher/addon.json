@@ -1,0 +1,10 @@
+{
+	"title"		: "Grenade Launcher SWRP SWEP",
+	"type"		: "ServerContent",
+	"tags"		: [ "fun", "roleplay" ],
+	"ignore"	: [
+		"*.psd",
+		"*.vcproj",
+		"*.svn*"
+	]
+}
